@@ -1,0 +1,20 @@
+**/bin/
+**/target/
+
+# Eclipse files
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings/
+
+# IntelliJ files
+**/.idea/
+**/*.iml
+
+# Misc
+.mtj.tmp/
+**/hs_err_pid*
+config.properties
+
+# 
+
